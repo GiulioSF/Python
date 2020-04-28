@@ -1,5 +1,6 @@
 total = contmenor = cont = 0
 barato = ' '
+
 while True:
     produto = str(input('Nome do Produto: '))
     valor = int(input('Preço: R$ '))
